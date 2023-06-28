@@ -1,3 +1,3 @@
 # Digital-Image-Processing-and-Computer-Vision
-Digital Image Processing and Computer Vision with Mini Project
+Digital Image Processing and Computer Vision
 
